@@ -51,3 +51,4 @@ create_contacts(BaseContact, 10)
 
 #Card.contact()
 #Card.label_lenth
+#'to jest kontrolny komentarz do gita'
